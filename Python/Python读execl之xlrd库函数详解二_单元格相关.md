@@ -1,4 +1,4 @@
-### 博客地址：
+### 博客地址：[https://blog.csdn.net/NoamaNelson/article/details/102909204](https://blog.csdn.net/NoamaNelson/article/details/102909204)
 Python读execl主要用到xlrd库，用到主要函数详解如下：		
 
 ## 准备工作：
